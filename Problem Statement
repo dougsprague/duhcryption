@@ -5,3 +5,5 @@ You sent
 Of course the over 60 crew here is allowed to participate and very welcome we want to see what you got 🙂
 
 The duhcryption algorithm is not case sensitive so if the letter X is mapped to the letter j then it happens for both uppercase and lowercase but the case is always preserved. There is also digit mapping and special character mapping which I threw in for a little twist:-) there are probably a few characters that might not even be encrypted. But the full alphabet and digits are. Okay enough hints! Now let's get cracking that code!
+
+So, there is character to character mapping, digit to digit mapping, and also special character (think !#%*) to special character mapping in the encryption.
